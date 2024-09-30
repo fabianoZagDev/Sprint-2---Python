@@ -1,1 +1,3 @@
-Id. Sessao	Id. Usuario	Tempo do Login	Tempo do Logout
+Id. Sessao;Id. Usuario;Tempo Login;Tempo Logout;Data Login;Data Logout
+1;1;;;2024-09-29 21:44:42.199998;2024-09-29 21:45:10.921583
+2;3;;;2024-09-29 22:16:32.899237;2024-09-29 22:16:52.346845

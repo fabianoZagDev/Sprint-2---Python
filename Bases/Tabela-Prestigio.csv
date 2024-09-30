@@ -1,1 +1,10 @@
-Id. Prestigio	Prestigio	Id. Nivel	Fase
+Id. Prestigio;Prestigio;Ponto Min
+1;Novato;0
+2;Piloto Amador;8000
+3;Piloto Profissional;15000
+4;Piloto de Elite;300000
+5;Campeão Regional;500000
+6;Campeão Nacional;700000
+7;Mestre da Fórmula E;1000000
+8;Lenda da Fórmula E;1250000
+9;Guru da Fórmula E;1500000

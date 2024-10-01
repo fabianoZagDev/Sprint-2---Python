@@ -1,5 +1,6 @@
-Id. Usuario;Nome Usuario;Nome;Id. Equipe;Id. Membro;Id. Prestigio;Id. Nivel;Id. Recompensa;Total Pontos;Num Sessoes
-1;fabi;Fabiano Zague;2;0;1;0;1;0;0
-2;certo;Pedro Certo;0;0;1;0;0;0;0
-3;Fujitx;Erick Fujita;1;0;1;0;0;0;0
-4;Pcxx;Paulo Caxixi;1;0;1;0;0;0;0
+Id. Usuario;Nome Usuario;Nome;Id. Equipe;Id. Prestigio;Id. Recompensa;Total Pontos
+1;fabi;Fabiano Zague;2;1;1;0
+2;certo;Pedro Certo;0;1;0;0
+3;Fujitx;Erick Fujita;1;1;0;0
+4;Pcxx;Paulo Caxixi;1;1;0;0
+5;Fran;Francisco;1;1;0;0
